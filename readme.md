@@ -1,9 +1,9 @@
-# Desafío Opcional: Traer Posts 
+# Desafío Opcional: Datos de Usuarios
 
 ### Módulo 3
 ### Programación Avanzada en JavaScript
 
-## Unidad: 3 - Desafío Opcional 1
+## Unidad: 3 - Desafío Opcional 2
 
 #### Contenidos Desarrollados:
 
